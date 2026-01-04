@@ -1,8 +1,0 @@
-{
-  "version": "1.0.2",
-  "build_number": 101,
-  "release_date": "2025-11-22",
-  "channel": "stable",
-  "download_url": "https://github.com/rocketarcade/versions/raw/refs/heads/main/sample1.zip",
-  "release_notes": "deneme açıklaması"
-}
